@@ -10,7 +10,7 @@ public class MyController
 {
     private String[] arr;
     private String result;
-    private int id;
+    
     public  MyController()
     {
         String[] arr=new String[5];
